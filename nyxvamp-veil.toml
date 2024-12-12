@@ -4,74 +4,74 @@ name = "nyxvamp_veil"
 
 [colors]
 # Regular colors
-background = '#1E1E2E'          # Dark purple background
-foreground = '#D9E0EE'          # Light lavender foreground
-black = '#1E1E2E'               # Dark purple background
-red = '#E78284'                 # Soft red for errors
-green = '#A6DA95'               # Soft green for additions
-yellow = '#E5C890'              # Soft yellow for warnings
-blue = '#96CDFB'                # Blue for functions
-magenta = '#F28FAD'             # Pink for special strings
-cyan = '#8BD5CA'                # Soft cyan for hints
-white = '#D9E0EE'               # Light lavender foreground
+background = "#1E1E2E"          # Dark purple background
+foreground = "#D9E0EE"          # Light lavender foreground
+black = "#1E1E2E"               # Dark purple background
+red = "#E78284"                 # Soft red for errors
+green = "#A6DA95"               # Soft green for additions
+yellow = "#E5C890"              # Soft yellow for warnings
+blue = "#96CDFB"                # Blue for functions
+magenta = "#F28FAD"             # Pink for special strings
+cyan = "#8BD5CA"                # Soft cyan for hints
+white = "#D9E0EE"               # Light lavender foreground
 
 # Bright colors
-light-black = '#494D64'         # Grayish selection
-light-red = '#E78284'           # Soft red for errors
-light-green = '#A6DA95'         # Soft green for additions
-light-yellow = '#E5C890'        # Soft yellow for warnings
-light-blue = '#96CDFB'          # Blue for functions
-light-magenta = '#F28FAD'       # Pink for special strings
-light-cyan = '#8BD5CA'          # Soft cyan for hints
-light-white = '#F5C2E7'         # Pink bold text
+light-black = "#494D64"         # Grayish selection
+light-red = "#E78284"           # Soft red for errors
+light-green = "#A6DA95"         # Soft green for additions
+light-yellow = "#E5C890"        # Soft yellow for warnings
+light-blue = "#96CDFB"          # Blue for functions
+light-magenta = "#F28FAD"       # Pink for special strings
+light-cyan = "#8BD5CA"          # Soft cyan for hints
+light-white = "#F5C2E7"         # Pink bold text
 
 # Cursor
-cursor = '#F5C2E7'              # Soft pink cursor
-vi-cursor = '#F28FAD'           # Pink vi-mode cursor
+cursor = "#F5C2E7"              # Soft pink cursor
+vi-cursor = "#F28FAD"           # Pink vi-mode cursor
 
 # Navigation
-tabs = '#F28FAD'                        # Pink accent for tabs
-tabs-foreground = '#D9E0EE'             # Light lavender foreground for tabs
-tabs-active = '#494D64'                 # Grayish selection for active tab
-tabs-active-highlight = '#F28FAD'       # Highlight for active tab
-tabs-active-foreground = '#FFFFFF'      # Active tab text color
-bar = '#1E1E2E'                         # Matches background for the bar
+tabs = "#F28FAD"                        # Pink accent for tabs
+tabs-foreground = "#D9E0EE"             # Light lavender foreground for tabs
+tabs-active = "#494D64"                 # Grayish selection for active tab
+tabs-active-highlight = "#F28FAD"       # Highlight for active tab
+tabs-active-foreground = "#FFFFFF"      # Active tab text color
+bar = "#1E1E2E"                         # Matches background for the bar
 
 # Search
-search-match-background = '#96CDFB'               # Blue for search match
-search-match-foreground = '#1E1E2E'               # Dark purple for match text
-search-focused-match-background = '#E5C890'       # Soft yellow for focused search match
-search-focused-match-foreground = '#1E1E2E'       # Dark purple for focused match text
+search-match-background = "#96CDFB"               # Blue for search match
+search-match-foreground = "#1E1E2E"               # Dark purple for match text
+search-focused-match-background = "#E5C890"       # Soft yellow for focused search match
+search-focused-match-foreground = "#1E1E2E"       # Dark purple for focused match text
 
 # Selection
-selection-foreground = '#1E1E2E'      # Dark purple foreground for selected text
-selection-background = '#494D64'      # Grayish selection background
+selection-foreground = "#1E1E2E"      # Dark purple foreground for selected text
+selection-background = "#494D64"      # Grayish selection background
 
 # Dim colors
-dim-black = '#1A1A26'                 # Slightly lighter black
-dim-red = '#D06A74'                   # Dimmed red
-dim-green = '#84B381'                 # Dimmed green
-dim-yellow = '#C4B078'                # Dimmed yellow
-dim-blue = '#7AADC7'                  # Dimmed blue
-dim-magenta = '#D98BA6'               # Dimmed pink
-dim-cyan = '#73B2A9'                  # Dimmed cyan
-dim-white = '#B0B6CE'                 # Dimmed white
+dim-black = "#1A1A26"                 # Slightly lighter black
+dim-red = "#D06A74"                   # Dimmed red
+dim-green = "#84B381"                 # Dimmed green
+dim-yellow = "#C4B078"                # Dimmed yellow
+dim-blue = "#7AADC7"                  # Dimmed blue
+dim-magenta = "#D98BA6"               # Dimmed pink
+dim-cyan = "#73B2A9"                  # Dimmed cyan
+dim-white = "#B0B6CE"                 # Dimmed white
 
 # Light colors
-light-black = '#494D64'
-light-red = '#E78284'
-light-green = '#A6DA95'
-light-yellow = '#E5C890'
-light-blue = '#96CDFB'
-light-magenta = '#F28FAD'
-light-cyan = '#8BD5CA'
-light-white = '#F5C2E7'
+light-black = "#494D64"
+light-red = "#E78284"
+light-green = "#A6DA95"
+light-yellow = "#E5C890"
+light-blue = "#96CDFB"
+light-magenta = "#F28FAD"
+light-cyan = "#8BD5CA"
+light-white = "#F5C2E7"
 
 # Cursorline and Visual Highlight
-highlight_line = '#494D64'            # Grayish selection for highlight line
+highlight_line = "#494D64"            # Grayish selection for highlight line
 
 # Error and Warning Colors
-error_color = '#E78284'               # Soft red for errors
-warning_color = '#E5C890'             # Soft yellow for warnings
-info_color = '#8BD5CA'                # Soft cyan for informational messages
-hint_color = '#A6DA95'                # Soft green for hints
+error_color = "#E78284"               # Soft red for errors
+warning_color = "#E5C890"             # Soft yellow for warnings
+info_color = "#8BD5CA"                # Soft cyan for informational messages
+hint_color = "#A6DA95"                # Soft green for hints

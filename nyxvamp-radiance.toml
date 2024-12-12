@@ -1,0 +1,90 @@
+# ~/.config/rio/themes/nyxvamp_radiance.toml
+
+name = "nyxvamp_radiance"
+
+[colors]
+# Regular colors
+background = '#F7F7FF'          # Off-white background
+foreground  = '#1E1E2E'          # Deep navy foreground
+black = '#1E1E2E'                # Deep navy foreground (used as black in syntax)
+red = '#E78284'                  # Red errors
+green = '#A6DA95'                # Green additions
+yellow = '#E5C890'               # Yellow warnings
+blue = '#005F87'                 # Blue functions
+magenta = '#F28FAD'              # Pink special strings
+cyan = '#8BD5CA'                 # Cyan hints
+white = '#F7F7FF'                # Off-white foreground
+yellow = '#E5C890'               # Yellow warnings
+
+# Cursor
+cursor = '#9655FF'               # Deep purple cursor
+vi-cursor = '#9655FF'            # Deep purple cursor for vi mode
+
+# Navigation
+tabs = '#9655FF'                        # Deep purple accent for tabs
+tabs-foreground = '#1E1E2E'             # Dark text on tabs
+tabs-active = '#9655FF'                  # Active tab background
+tabs-active-foreground = '#FFFFFF'       # Active tab text color
+tabs-active-highlight = '#bdfe58'        # Highlight for active tab
+bar = '#1b1a1a'                          # Dimmer color for navigation bar
+
+# Search
+search-match-background = '#66b2b2'               # Cyan for search match
+search-match-foreground = '#FFFFFF'               # White text on search match
+search-focused-match-background = '#E6A003'       # Yellow for focused search match
+search-focused-match-foreground = '#FFFFFF'       # White text on focused search match
+
+# Selection
+selection-foreground = '#1E1E2E'      # Dark foreground for selection
+selection-background = '#FEF5BC'      # Soft yellow selection background
+
+# Dim colors
+dim-black = '#1C191A'
+dim-blue = '#0E91B7'
+dim-cyan = '#93D4E7'
+dim-foreground = '#ECDC8A'
+dim-green = '#098749'
+dim-magenta = '#624A87'
+dim-red = '#C7102A'
+dim-white = '#C1C1C1'
+dim-yellow = '#E6A003'
+
+# Light colors
+light-black = '#ADA8A0'
+light-blue = '#44C9F0'
+light-cyan = '#7BE1FF'
+light-foreground = '#F2EFE2'
+light-green = '#0ED372'
+light-magenta = '#9E88BE'
+light-red = '#F25E73'
+light-white = '#FFFFFF'
+light-yellow = '#FDF170'
+
+# Cursor Colors
+cursor = '#9655FF'           # Deep purple cursor
+vi-cursor = '#12d0ff'        # Light blue cursor for vi mode
+
+# Additional UI Elements
+tabs = '#9655FF'                        # Deep purple accent for tabs
+tabs-foreground = '#1E1E2E'             # Dark text on tabs
+tabs-active = '#9655FF'                  # Active tab background
+tabs-active-highlight = '#bdfe58'        # Highlight for active tab
+tabs-active-foreground = '#FFFFFF'       # Active tab text color
+bar = '#1b1a1a'                          # Dimmer color for navigation bar
+
+# Navigation Bar
+tabs = '#9655FF'                        # Deep purple for active tabs
+tabs-foreground = '#1E1E2E'             # Dark text on tabs
+tabs-active = '#9655FF'                  # Active tab background
+tabs-active-highlight = '#bdfe58'        # Highlight for active tab
+tabs-active-foreground = '#FFFFFF'       # Active tab text color
+bar = '#1b1a1a'                          # Navigation bar color
+
+# Highlight Line
+highlight_line = '#FEF5BC'               # Highlighted line background
+
+# Error and Warning Colors
+error_color = '#E78284'                  # Error messages
+warning_color = '#E5C890'                # Warning messages
+info_color = '#8BD5CA'                   # Informational messages
+hint_color = '#A6DA95'                   # Hint messages

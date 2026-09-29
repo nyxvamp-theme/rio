@@ -1,0 +1,67 @@
+# ~/.config/rio/themes/nyxvamp_jhujuba.toml
+
+name = "nyxvamp_jhujuba"
+
+[colors]
+# Regular colors
+background = "#392735"          # Mid-dark plum background
+foreground = "#EDD7E4"          # Soft pink-white foreground
+black = "#392735"               # Mid-dark plum background
+red = "#F2798F"                 # Hot pink for errors
+green = "#A1E0AD"               # Soft green for strings
+yellow = "#F7BD8F"              # Peach for warnings
+blue = "#91C3F6"                # Blue for functions
+magenta = "#FDA293"             # Coral for constants
+cyan = "#83CEC8"                # Soft cyan for hints
+white = "#EDD7E4"               # Soft pink-white foreground
+
+# Bright colors
+light-black = "#AB8EA7"         # Dim mauve for comments
+light-red = "#F2798F"           # Hot pink for errors
+light-green = "#A1E0AD"         # Soft green for strings
+light-yellow = "#F7BD8F"        # Peach for warnings
+light-blue = "#91C3F6"          # Blue for functions
+light-magenta = "#EEA2D4"       # Bubblegum pink for keywords
+light-cyan = "#83CEC8"          # Soft cyan for hints
+light-white = "#C9C3F9"         # Lavender types
+
+# Cursor
+cursor = "#EEA2D4"              # Bubblegum pink cursor
+vi-cursor = "#EEA2D4"           # Bubblegum pink vi-mode cursor
+
+# Navigation
+tabs = "#EEA2D4"                        # Pink accent for tabs
+tabs-foreground = "#EDD7E4"             # Soft pink-white foreground for tabs
+tabs-active = "#64485E"                 # Muted plum selection for active tab
+tabs-active-highlight = "#EEA2D4"       # Highlight for active tab
+tabs-active-foreground = "#FFFFFF"      # Active tab text color
+bar = "#392735"                         # Matches background for the bar
+
+# Search
+search-match-background = "#91C3F6"               # Blue for search match
+search-match-foreground = "#392735"               # Mid-dark plum for match text
+search-focused-match-background = "#F7BD8F"       # Peach for focused search match
+search-focused-match-foreground = "#392735"       # Mid-dark plum for focused match text
+
+# Selection
+selection-foreground = "#392735"      # Mid-dark plum foreground for selected text
+selection-background = "#64485E"      # Muted plum selection background
+
+# Dim colors
+dim-black = "#2A1E27"                 # Slightly darker black
+dim-red = "#C26173"                   # Dimmed hot pink
+dim-green = "#81B38A"                 # Dimmed green
+dim-yellow = "#C69773"                # Dimmed peach
+dim-blue = "#749CC5"                  # Dimmed blue
+dim-magenta = "#CB8276"               # Dimmed coral
+dim-cyan = "#69A5A0"                  # Dimmed cyan
+dim-white = "#BEACB7"                 # Dimmed white
+
+# Cursorline and Visual Highlight
+highlight_line = "#493644"            # Lighter plum for highlight line
+
+# Error and Warning Colors
+error_color = "#F2798F"               # Hot pink for errors
+warning_color = "#F7BD8F"             # Peach for warnings
+info_color = "#83CEC8"                # Soft cyan for informational messages
+hint_color = "#A1E0AD"                # Soft green for hints

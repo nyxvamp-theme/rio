@@ -11,17 +11,17 @@ red = "#E78284"                 # Soft red for errors
 green = "#A6DA95"               # Soft green for additions
 yellow = "#E5C890"              # Soft yellow for warnings
 blue = "#96CDFB"                # Blue for functions
-magenta = "#F28FAD"             # Pink for special strings
+magenta = "#E1C487"             # Gold for constants
 cyan = "#8BD5CA"                # Soft cyan for hints
 white = "#D9E0EE"               # Light lavender foreground
 
 # Bright colors
-light-black = "#494D64"         # Grayish selection
+light-black = "#8C88A6"         # Dim gray for comments
 light-red = "#E78284"           # Soft red for errors
 light-green = "#A6DA95"         # Soft green for additions
 light-yellow = "#E5C890"        # Soft yellow for warnings
 light-blue = "#96CDFB"          # Blue for functions
-light-magenta = "#F28FAD"       # Pink for special strings
+light-magenta = "#E1C487"       # Gold for constants
 light-cyan = "#8BD5CA"          # Soft cyan for hints
 light-white = "#F5C2E7"         # Pink bold text
 
@@ -58,12 +58,12 @@ dim-cyan = "#73B2A9"                  # Dimmed cyan
 dim-white = "#B0B6CE"                 # Dimmed white
 
 # Light colors
-light-black = "#494D64"
+light-black = "#8C88A6"
 light-red = "#E78284"
 light-green = "#A6DA95"
 light-yellow = "#E5C890"
 light-blue = "#96CDFB"
-light-magenta = "#F28FAD"
+light-magenta = "#E1C487"
 light-cyan = "#8BD5CA"
 light-white = "#F5C2E7"
 
